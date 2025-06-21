@@ -1,0 +1,16 @@
+{
+	"arch": "deeplabv3plus_dualinput_resnet50",
+	"epochs": 1000,
+	"learning_rate": 0.00002,
+	"decay": 0,
+	"optimizer": "adam",
+	"batch_size": 16,
+	"num_workers": 8,
+	"dataset": "segmentation_training",
+	"dataset_root": "/home/xizhn/Desktop/HiPriorityDataset",
+    "training_log_path": "/home/xizhn/Desktop/HiPriorityDataset",
+	"pretrained": "No",
+	"image_width": 640,
+	"image_height": 512,
+	"gpu_support": "Yes"
+}

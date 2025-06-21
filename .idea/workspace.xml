@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0de2dc2-44d5-481b-ac73-df2314778fef" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.3009071">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/trainer_pytorch.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="269">
+                  <caret line="185" column="8" selection-start-line="185" selection-start-column="8" selection-end-line="185" selection-end-column="8" />
+                  <folding>
+                    <element signature="e#46#55#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/miscs/extract_pixel_feature_for_segmentation_refine.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="638">
+                  <caret line="92" column="16" lean-forward="true" selection-end-line="155" selection-end-column="10" />
+                  <folding>
+                    <element signature="e#0#15#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/average_meter.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1162627675/1289383141/tokenize.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="7531">
+                  <caret line="451" selection-start-line="451" selection-end-line="451" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/trainer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" selection-start-line="2" selection-end-line="2" />
+                  <folding>
+                    <element signature="e#46#61#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/__init__.py">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/miscs/fix_pkl.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="18" />
+                  <folding>
+                    <element signature="e#0#14#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/loss_functions.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="14" column="36" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="36" />
+                  <folding>
+                    <element signature="e#46#58#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/json_parser.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <folding>
+                    <element signature="e#46#57#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/dataset/segmentation_training.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="680">
+                  <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+                  <folding>
+                    <element signature="e#46#77#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="29580">
+                  <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/bin/run_inferrer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="884">
+                  <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+                  <folding>
+                    <element signature="e#46#61#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/model/deeplabv3plus_dualinput_resnet50.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2091">
+                  <caret line="123" selection-start-line="123" selection-end-line="123" />
+                  <folding>
+                    <element signature="e#46#58#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/util/inferrer_pytorch.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="688">
+                  <caret line="119" column="8" selection-start-line="119" selection-start-column="8" selection-end-line="119" selection-end-column="8" />
+                  <folding>
+                    <element signature="e#46#61#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/bin/run_trainer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1088">
+                  <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+                  <folding>
+                    <element signature="e#46#61#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/dataset/marvin.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="13" column="17" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/dataset/segmentation_10k.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <folding>
+                    <element signature="e#46#77#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/data_processing/data_preparer_inferrer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="425">
+                  <caret line="25" selection-start-line="25" selection-end-line="25" />
+                  <folding>
+                    <element signature="e#46#58#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/data_processing/common.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                  <caret line="15" column="20" selection-start-line="15" selection-end-line="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/data_processing/data_preparer_trainer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="340">
+                  <caret line="20" column="63" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="63" />
+                  <folding>
+                    <element signature="e#46#58#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gpu_support</find>
+      <find>self.params</find>
+      <find>gpu</find>
+      <find>gpu_</find>
+      <find>num_workers</find>
+      <find>dataset_root</find>
+      <find>pretrained_path</find>
+      <find>input</find>
+      <find>use</find>
+      <find>input_path</find>
+      <find>batch</find>
+      <find>OrderedDict</find>
+      <find>num</find>
+      <find>iou</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/util/config_parser_pytorch.py" />
+        <option value="$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/config_parser_pytorch.py" />
+        <option value="$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/dataset/__init__.py" />
+        <option value="$PROJECT_DIR$/params_example" />
+        <option value="$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/data_processing/data_preparer_inferrer.py" />
+        <option value="$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/loss_functions.py" />
+        <option value="$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/data_processing/data_preparer_trainer.py" />
+        <option value="$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/dataset/segmentation_training.py" />
+        <option value="$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/data_processing/common.py" />
+        <option value="$PROJECT_DIR$/config/deeplabv3plus_dualinput_resnet50.json" />
+        <option value="$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/bin/run_trainer.py" />
+        <option value="$PROJECT_DIR$/config/deeplabv3plus_dualinput_resnet50_inference.json" />
+        <option value="$PROJECT_DIR$/marvin_image_segmentation_dl_model/model/deeplabv3plus_dualinput_resnet50.py" />
+        <option value="$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/trainer_pytorch.py" />
+        <option value="$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/dataset/marvin.py" />
+        <option value="$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/util/inferrer_pytorch.py" />
+        <option value="$PROJECT_DIR$/miscs/fix_pkl.py" />
+        <option value="$PROJECT_DIR$/config/pixel_sampling_net.json" />
+        <option value="$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/bin/run_inferrer.sh" />
+        <option value="$PROJECT_DIR$/miscs/extract_pixel_feature_for_segmentation_refine.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1680" />
+    <option name="y" value="23" />
+    <option name="width" value="3440" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DeeplabV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeeplabV3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeeplabV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeeplabV3" type="462c0819:PsiDirectoryNode" />
+              <item name="marvin_image_segmentation_dl_inferrer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeeplabV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeeplabV3" type="462c0819:PsiDirectoryNode" />
+              <item name="marvin_image_segmentation_dl_inferrer" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeeplabV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeeplabV3" type="462c0819:PsiDirectoryNode" />
+              <item name="marvin_image_segmentation_dl_model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeeplabV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeeplabV3" type="462c0819:PsiDirectoryNode" />
+              <item name="marvin_image_segmentation_dl_model" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeeplabV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeeplabV3" type="462c0819:PsiDirectoryNode" />
+              <item name="marvin_image_segmentation_dl_model" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeeplabV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeeplabV3" type="462c0819:PsiDirectoryNode" />
+              <item name="marvin_image_segmentation_dl_model" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="data_processing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeeplabV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeeplabV3" type="462c0819:PsiDirectoryNode" />
+              <item name="marvin_image_segmentation_dl_model" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeeplabV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeeplabV3" type="462c0819:PsiDirectoryNode" />
+              <item name="marvin_image_segmentation_dl_trainer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeeplabV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeeplabV3" type="462c0819:PsiDirectoryNode" />
+              <item name="marvin_image_segmentation_dl_trainer" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeeplabV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeeplabV3" type="462c0819:PsiDirectoryNode" />
+              <item name="marvin_image_segmentation_dl_trainer" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeeplabV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeeplabV3" type="462c0819:PsiDirectoryNode" />
+              <item name="miscs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.1492986" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="DeeplabV3" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="DeeplabV3" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_inferrer">
+    <configuration name="extract_pixel_feature_for_segmentation_refine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeeplabV3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/miscs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/miscs/extract_pixel_feature_for_segmentation_refine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fix_pkl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeeplabV3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/miscs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/miscs/fix_pkl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_inferrer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeeplabV3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/bin/run_inferrer.py" />
+      <option name="PARAMETERS" value="--input_path /mnt/ebs_xizhn/Data/Segmentation/golden_set --output_path /mnt/ebs_xizhn/Data/Segmentation/golden_set/masks_generated_by_old_model --config_path /mnt/ebs_xizhn/Projects/DeeplabV3/config/deeplabv3plus_dualinput_resnet50_inference.json --weights_path /mnt/ebs_xizhn/Projects/DeeplabV3/marvin_image_segmentation_dl_trainer/pretrained_weights/deeplabv3plus_dualinput_resnet50_retrained.pth --use_gpu false --mask_suffix _mask" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_trainer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeeplabV3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/bin/run_trainer.py" />
+      <option name="PARAMETERS" value="--arch deeplabv3plus_dualinput_resnet50 --dataset_root /mnt/ebs_xizhn/Data/Segmentation/golden_set --manifest_file /mnt/ebs_xizhn/Data/Segmentation/retrain_manifest_combined.txt --output_model_path /mnt/ebs_xizhn/Projects/DeeplabV3/marvin_image_segmentation_dl_trainer/saved_weights --config_path /mnt/ebs_xizhn/Projects/DeeplabV3/config/deeplabv3plus_dualinput_resnet50.json --pretrained_path /mnt/ebs_xizhn/Projects/DeeplabV3/marvin_image_segmentation_dl_trainer/pretrained_weights/deeplabv3plus_dualinput_resnet50_retrained.pth --batch_size 32" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run_trainer" />
+      <item itemvalue="Python.run_inferrer" />
+      <item itemvalue="Python.extract_pixel_feature_for_segmentation_refine" />
+      <item itemvalue="Python.fix_pkl" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_inferrer" />
+        <item itemvalue="Python.extract_pixel_feature_for_segmentation_refine" />
+        <item itemvalue="Python.fix_pkl" />
+        <item itemvalue="Python.run_trainer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0de2dc2-44d5-481b-ac73-df2314778fef" name="Default Changelist" comment="" />
+      <created>1576103997612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576103997612</updated>
+      <workItem from="1576103998866" duration="47207000" />
+      <workItem from="1577733181436" duration="25634000" />
+      <workItem from="1578088479452" duration="8447000" />
+      <workItem from="1578348995622" duration="9632000" />
+      <workItem from="1578620097573" duration="10594000" />
+      <workItem from="1579066982508" duration="12659000" />
+      <workItem from="1579314354608" duration="1391000" />
+      <workItem from="1579544034058" duration="398000" />
+      <workItem from="1579655167164" duration="1970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="117932000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1680" y="23" width="3440" height="977" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.059152443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7082002" weight="0.24043716" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.64962727" weight="0.23825137" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.49175987" visible="true" weight="0.20225988" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50824016" side_tool="true" visible="true" weight="0.20225988" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.4969475" weight="0.33672318" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32967034" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/util/inferrer_pytorch.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/util/inferrer_pytorch.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/trainer_pytorch.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/miscs/fix_pkl.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/bin/run_inferrer.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DeeplabV3$data_preparer_trainer.coverage" NAME="data_preparer_trainer Coverage Results" MODIFIED="1576566558190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/data_processing" />
+    <SUITE FILE_PATH="coverage/DeeplabV3$trainer_pytorch.coverage" NAME="trainer_pytorch Coverage Results" MODIFIED="1576275160708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util" />
+    <SUITE FILE_PATH="coverage/DeeplabV3$run_inferrer.coverage" NAME="run_inferrer Coverage Results" MODIFIED="1579314505025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/bin" />
+    <SUITE FILE_PATH="coverage/DeeplabV3$average_meter.coverage" NAME="average_meter Coverage Results" MODIFIED="1576540633727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util" />
+    <SUITE FILE_PATH="coverage/DeeplabV3$extract_pixel_feature_for_segmentation_refine.coverage" NAME="extract_pixel_feature_for_segmentation_refine Coverage Results" MODIFIED="1579246580456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/miscs" />
+    <SUITE FILE_PATH="coverage/DeeplabV3$run_trainer.coverage" NAME="run_trainer Coverage Results" MODIFIED="1578001553355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/bin" />
+    <SUITE FILE_PATH="coverage/DeeplabV3$fix_pkl.coverage" NAME="fix_pkl Coverage Results" MODIFIED="1578038345404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/miscs" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>newsavepath = '/mnt/ebs_xizhn/Projects/DeeplabV3/marvin_image_segmentation_dl_trainer/pretrained_weights'
+self.save_checkpoint(newsavepath, {
+    'epoch': 893,
+    'arch': self.params['arch'],
+    'state_dict': network_data['state_dict'],
+    'best_val_iou': network_data['best_val_iou'],
+}, False)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>len(dicts)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>z[237, :]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>z[236, :]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>z[tmp[:, 0], tmp[:, 1]] = 1</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>z = np.zeros([rows, cols])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>z[236, 13]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>z[236, 12]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>z[236, 11]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>z[236, 10]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>z[237, 1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/SSJ_BigData/homework5/code/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/util/system_helpers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/util/config_parser_pytorch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#46#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/model/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/params_example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="173" selection-start-column="173" selection-end-column="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1162627675/-1824017143/torch/tensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3311">
+          <caret line="440" selection-start-line="440" selection-end-line="440" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1162627675/-1824017143/torch/optim/adam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1162627675/-1824017143/torch/utils/data/sampler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1162627675/-1824017143/torch/serialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="175" column="44" lean-forward="true" selection-start-line="175" selection-start-column="44" selection-end-line="175" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/dataset/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1162627675/-1824017143/torch/utils/data/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="757" selection-start-line="757" selection-end-line="757" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1162627675/-1824017143/torch/_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="384" selection-start-line="384" selection-end-line="384" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1162627675/-1824017143/torch/utils/data/_utils/fetch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1162627675/1289383141/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1453">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/config_parser_pytorch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#46#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1162627675/-1824017143/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14144">
+          <caret line="838" selection-start-line="838" selection-end-line="838" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/deeplabv3plus_dualinput_resnet50_inference.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/deeplabv3plus_dualinput_resnet50.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/pixel_sampling_net.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../GenerateImageTableOnWiki/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1162627675/1289383141/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/util/inferrer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/bin/run_inferrer.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/average_meter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1162627675/1289383141/tokenize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7531">
+          <caret line="451" selection-start-line="451" selection-end-line="451" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miscs/fix_pkl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/json_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#46#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/dataset/segmentation_training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding>
+            <element signature="e#46#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29580">
+          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/bin/run_inferrer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/model/deeplabv3plus_dualinput_resnet50.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+          <folding>
+            <element signature="e#46#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/bin/run_trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/dataset/marvin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/dataset/segmentation_10k.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#46#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/data_processing/data_preparer_inferrer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#46#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/data_processing/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="20" selection-start-line="15" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_inferrer/util/inferrer_pytorch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="119" column="8" selection-start-line="119" selection-start-column="8" selection-end-line="119" selection-end-column="8" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_model/util/data_processing/data_preparer_trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="63" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="63" />
+          <folding>
+            <element signature="e#46#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/trainer_pytorch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="185" column="8" selection-start-line="185" selection-start-column="8" selection-end-line="185" selection-end-column="8" />
+          <folding>
+            <element signature="e#46#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvin_image_segmentation_dl_trainer/util/loss_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="e#46#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miscs/extract_pixel_feature_for_segmentation_refine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="92" column="16" lean-forward="true" selection-end-line="155" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

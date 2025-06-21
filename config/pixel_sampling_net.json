@@ -1,0 +1,16 @@
+{
+	"arch": "pixel_sampling_net",
+	"epochs": 1000,
+	"learning_rate": 0.00002,
+	"decay": 0,
+	"optimizer": "adam",
+	"batch_size": 100000,
+	"num_workers": 8,
+	"dataset": "segmentation_training",
+	"dataset_root": "/mnt/ebs_xizhn2/Data/Segmentation/golden_set",
+    "training_log_path": "/mnt/ebs_xizhn/Projects/DeeplabV3/miscs",
+	"pretrained": "No",
+	"image_width": 1280,
+	"image_height": 1024,
+	"gpu_support": "Yes"
+}

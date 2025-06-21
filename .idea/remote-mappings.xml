@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://ec2-user@ec2-34-228-105-161.compute-1.amazonaws.com:22/home/ec2-user/anaconda3/envs/marvin_dl_seg/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>
