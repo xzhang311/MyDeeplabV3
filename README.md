@@ -1,7 +1,7 @@
 # MyDeeplabV3
 
 ## Overview
-MyDeeplabV3 is a Python implementation of the paper, *["Semantic Segmentation for 3D Reconstruction of ASINs for AR"](https://github.com/xzhang311/MyDeeplabV3/blob/main/Deep_learned_image_segmentation.pdf).* This project leverages the DeepLabV3 architecture for semantic segmentation to support 3D reconstruction of objects (ASINs) for augmented reality (AR) applications. It focuses on accurately segmenting objects in images to facilitate high-quality 3D model generation.
+MyDeeplabV3 is a Python implementation of my paper, *["Semantic Segmentation for 3D Reconstruction of ASINs for AR"](https://github.com/xzhang311/MyDeeplabV3/blob/main/Deep_learned_image_segmentation.pdf).* This project leverages the DeepLabV3 architecture for semantic segmentation to support 3D reconstruction of objects (ASINs) for augmented reality (AR) applications. It focuses on accurately segmenting objects in images to facilitate high-quality 3D model generation.
 
 ## Features
 - **Semantic Segmentation**: Utilizes DeepLabV3 for precise object segmentation in images.
