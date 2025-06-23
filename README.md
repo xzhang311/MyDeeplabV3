@@ -10,8 +10,7 @@ MyDeeplabV3 is a Python implementation of my paper, *["Semantic Segmentation for
 - **Visualization Tools**: Includes utilities to visualize segmentation results.
 
 ## Preview
-![Preview 1](pics/pic1.png)
-![Preview 2](pics/pic2.png)
+![Preview 1](pics/deeplabv3.png)
 
 ## Installation
 1. Clone the repository:
